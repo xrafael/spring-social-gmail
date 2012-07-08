@@ -1,4 +1,4 @@
-package org.bdigital.springsocial.gmail.api;
+package org.springsocial.gmail.api;
 
 import org.springframework.social.ApiBinding;
 

@@ -1,12 +1,12 @@
-package org.bdigital.springsocial.gmail;
+package org.springsocial.gmail;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
 
-import org.bdigital.springsocial.gmail.api.Gmail;
-import org.bdigital.springsocial.gmail.api.impl.GmailOAuth1Operations;
-import org.bdigital.springsocial.gmail.api.impl.GmailTemplate;
 import org.springframework.social.oauth1.AbstractOAuth1ServiceProvider;
+import org.springsocial.gmail.api.Gmail;
+import org.springsocial.gmail.api.impl.GmailOAuth1Operations;
+import org.springsocial.gmail.api.impl.GmailTemplate;
 
 public class GmailServiceProvider extends AbstractOAuth1ServiceProvider<Gmail> {
 

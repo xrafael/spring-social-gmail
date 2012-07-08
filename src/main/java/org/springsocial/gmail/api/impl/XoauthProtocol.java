@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-package org.bdigital.springsocial.gmail.api.impl;
+package org.springsocial.gmail.api.impl;
 
 /**
  * Represents a protocol that can be authenticated with XOAUTH.

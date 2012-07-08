@@ -1,9 +1,9 @@
-package org.bdigital.springsocial.gmail;
+package org.springsocial.gmail;
 
 import java.io.UnsupportedEncodingException;
 
-import org.bdigital.springsocial.gmail.api.Gmail;
 import org.springframework.social.connect.support.OAuth1ConnectionFactory;
+import org.springsocial.gmail.api.Gmail;
 
 public class GmailConnectionFactory extends OAuth1ConnectionFactory<Gmail> { 
 

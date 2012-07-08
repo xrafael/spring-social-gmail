@@ -1,13 +1,13 @@
-package org.bdigital.springsocial.gmail.api.impl;
+package org.springsocial.gmail.api.impl;
 
 import java.util.Properties;
 
 import net.oauth.OAuthConsumer;
 import net.oauth.OAuthServiceProvider;
 
-import org.bdigital.springsocial.gmail.api.Gmail;
 import org.springframework.social.oauth1.AbstractOAuth1ApiBinding;
 import org.springframework.social.oauth1.OAuth1Operations;
+import org.springsocial.gmail.api.Gmail;
 
 import com.sun.mail.imap.IMAPSSLStore;
 import com.sun.mail.smtp.SMTPTransport;

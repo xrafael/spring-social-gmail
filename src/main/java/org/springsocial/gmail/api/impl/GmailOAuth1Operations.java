@@ -1,4 +1,4 @@
-package org.bdigital.springsocial.gmail.api.impl;
+package org.springsocial.gmail.api.impl;
 
 import oauth.signpost.OAuthConsumer;
 import oauth.signpost.OAuthProvider;

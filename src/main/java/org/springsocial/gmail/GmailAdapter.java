@@ -1,9 +1,9 @@
-package org.bdigital.springsocial.gmail;
+package org.springsocial.gmail;
 
-import org.bdigital.springsocial.gmail.api.Gmail;
 import org.springframework.social.connect.ApiAdapter;
 import org.springframework.social.connect.ConnectionValues;
 import org.springframework.social.connect.UserProfile;
+import org.springsocial.gmail.api.Gmail;
 
 public class GmailAdapter implements ApiAdapter<Gmail> {
 

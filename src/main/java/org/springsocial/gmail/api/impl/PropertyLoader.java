@@ -1,4 +1,4 @@
-package org.bdigital.springsocial.gmail.api.impl;
+package org.springsocial.gmail.api.impl;
 
 import java.io.InputStream;
 import java.util.Enumeration;

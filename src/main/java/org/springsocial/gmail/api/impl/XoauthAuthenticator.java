@@ -1,4 +1,4 @@
-package org.bdigital.springsocial.gmail.api.impl;
+package org.springsocial.gmail.api.impl;
 
 /* Copyright 2010 Google Inc.
  *
